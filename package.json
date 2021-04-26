@@ -1,0 +1,17 @@
+{
+  "name": "directus-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "directus start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^9.0.0-rc.57",
+    "mysql": "^2.18.1"
+  }
+}
